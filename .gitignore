@@ -173,5 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-Final_dataset
+Test_data
 F_R
+Example_data
+predictions.csv
